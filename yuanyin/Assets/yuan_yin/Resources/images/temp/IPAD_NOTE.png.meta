@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 5e8bf02f315b69c4d92ae3fa0cb4099a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2132706949870549593
+    second: IPAD_NOTE_0
+  - first:
+      213: -54913614042036
+    second: IPAD_NOTE_1
+  - first:
+      213: 1546680590263073889
+    second: IPAD_NOTE_2
+  - first:
+      213: 3054590749000411801
+    second: IPAD_NOTE_3
+  - first:
+      213: -6383123698407118746
+    second: IPAD_NOTE_4
+  - first:
+      213: -3307491731625872748
+    second: IPAD_NOTE_5
+  - first:
+      213: -7590522116055776190
+    second: IPAD_NOTE_6
+  - first:
+      213: -4822938321391657331
+    second: IPAD_NOTE_7
+  - first:
+      213: -7433019318453412510
+    second: IPAD_NOTE_8
+  - first:
+      213: -2449754765581317929
+    second: IPAD_NOTE_9
+  - first:
+      213: -1215794712028254558
+    second: IPAD_NOTE_10
+  - first:
+      213: 800404783135469139
+    second: IPAD_NOTE_11
+  - first:
+      213: -1776496836434469649
+    second: IPAD_NOTE_12
+  - first:
+      213: 7181983276550340427
+    second: IPAD_NOTE_13
+  - first:
+      213: 9214453054952918117
+    second: IPAD_NOTE_14
+  - first:
+      213: -8207845928568052048
+    second: IPAD_NOTE_15
+  - first:
+      213: 6623312805053651784
+    second: IPAD_NOTE_16
+  - first:
+      213: -182701458379386205
+    second: IPAD_NOTE_17
+  - first:
+      213: -6795069200416168647
+    second: IPAD_NOTE_18
+  - first:
+      213: 8228838472210734035
+    second: IPAD_NOTE_19
+  - first:
+      213: -4501573785792156979
+    second: IPAD_NOTE_20
+  - first:
+      213: -7073774833940170287
+    second: IPAD_NOTE_21
+  - first:
+      213: 6365976668234363103
+    second: IPAD_NOTE_22
+  - first:
+      213: -676256516279628123
+    second: IPAD_NOTE_23
+  - first:
+      213: 5233451546732408207
+    second: IPAD_NOTE_24
+  - first:
+      213: -9192243250191524139
+    second: IPAD_NOTE_25
+  - first:
+      213: -4077846126636342237
+    second: IPAD_NOTE_26
+  - first:
+      213: -7498578564641942444
+    second: IPAD_NOTE_27
+  - first:
+      213: 7172570265314769442
+    second: IPAD_NOTE_28
+  - first:
+      213: 7963657693816943402
+    second: IPAD_NOTE_29
+  - first:
+      213: 3492485829291096767
+    second: IPAD_NOTE_30
+  - first:
+      213: 3946228115718163363
+    second: IPAD_NOTE_31
+  - first:
+      213: 3512400362832021563
+    second: IPAD_NOTE_32
+  - first:
+      213: 4223998253708810081
+    second: IPAD_NOTE_33
+  - first:
+      213: -1267868031958929618
+    second: IPAD_NOTE_34
+  - first:
+      213: 678646277834085203
+    second: IPAD_NOTE_35
+  - first:
+      213: 2699563279005236950
+    second: IPAD_NOTE_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IPAD_NOTE_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 811
+        width: 172
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4caa8d6e0ecffff0800000000000000
+      internalID: -54913614042036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 811
+        width: 185
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3f9b5dc9e67510800000000000000
+      internalID: 1546680590263073889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 805
+        width: 202
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2d503a16146a20800000000000000
+      internalID: 3054590749000411801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 539
+        width: 217
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244cfbc0a5c09a690800000000000000
+      internalID: -7590522116055776190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 529
+        width: 226
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed4d3562b711db0800000000000000
+      internalID: -4822938321391657331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd7facf4c98d890800000000000000
+      internalID: -7433019318453412510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 516
+        width: 242
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d884b22509b00ed0800000000000000
+      internalID: -2449754765581317929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee1c5a621a02fe0800000000000000
+      internalID: -1215794712028254558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2057d8eb9b1b00800000000000000
+      internalID: 800404783135469139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 262
+        width: 249
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd7bf1a8d9857e0800000000000000
+      internalID: -1776496836434469649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 274
+        width: 244
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f349dfcb78ba360800000000000000
+      internalID: 7181983276550340427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 794
+        width: 191
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a7a0ddba5e89d10800000000000000
+      internalID: 2132706949870549593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 248
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e017c0d69a67a0800000000000000
+      internalID: -6383123698407118746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 15
+        width: 300
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f5ee3bcd6912d0800000000000000
+      internalID: -3307491731625872748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 11
+        width: 205
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4bf3bb3050ef70800000000000000
+      internalID: 9214453054952918117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a61ad3d6018ed84dada3e5cdb9cee70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

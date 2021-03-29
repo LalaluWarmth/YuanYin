@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a768ffea-65c6-4794-908d-d9b2e2108718" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF7B004C-2495-4FF9-8F68-A709BE4708C3/07/16972f66/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/e4/056501a3/RotateMode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF7B004C-2495-4FF9-8F68-A709BE4708C3/ec/8d7a8adc/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity/Editor/2019.4.14f1c1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/InitXingguiList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Note.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Cytoid-main/Assets/Packages/Lean/Touch/Scripts/LeanTouch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity/Editor/2019.4.14f1c1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF7B004C-2495-4FF9-8F68-A709BE4708C3/fa/654cb72f/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5CAC3F76-5EFB-4A71-98FB-BE8126E46E77/3e/4988b053/Event.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/XingguiSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/67/29e5aae4/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Cytoid-main/Assets/Scripts/Game/Screens/Overlay/OverlayScreen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF7B004C-2495-4FF9-8F68-A709BE4708C3/d0/eb0721e9/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/46859FA8-ACB8-45E5-8A4C-54B86DC45AA4/c7/0051b2c8/Koreographer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF7B004C-2495-4FF9-8F68-A709BE4708C3/b8/f9c6900f/Rect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/ClickNotes/ClickNoteSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF7B004C-2495-4FF9-8F68-A709BE4708C3/3c/0d9260cf/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/BodyMovements/InitBodyMoveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/BodyMovements/BodyMoveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/ExtraComponents/Qsort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Cytoid-main/Assets/Scripts/Game/InputController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/Lianyihuan/LianyiHuanSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/u3d/yuanyin/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/XingguiSpawn.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/ExtraComponents/TextTok.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/ExtraComponents/VerticalText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/11/5da45489/IComparer`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity/Editor/2019.4.14f1c1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/HomeCommon/HomeScene/StartAnimController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/Lianyihuan/LianyiMeasure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/XingguiLineSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/46859FA8-ACB8-45E5-8A4C-54B86DC45AA4/86/b6124945/Koreography.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/ExtraComponents/VerticalText.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/HomeCommon/nailAlign.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/HomeCommon/NailAlign.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/HomeCommon/ESDontDestroyOnLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/HomeCommon/SelectScene/UITouchInSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/SongBase/SongBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/Instances/SongListInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/Resources/json/SongList.json" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/HomeCommon/HomeScene/UITouch.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/Instances/UIInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/HomeCommon/HomeScene/StartAnimController.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_scripts/HomeCommon/SelectScene/SelectSceneAnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/TouchEventInSB.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/ExtraComponents/TextTok.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/HomeCommon/SelectScene/UITouchInSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/GameControllerInSB.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/Note.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/InputControllerInSB.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/ClickNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/ExtraComponents/Qsort.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/NoteClass/InitClickNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/NoteClass/ClickNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/NoteController.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/PlayScene/NoteClass/ClickNoteSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/ClickNoteS/InitClickNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/BodyMovements/InitBodyMoveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/ClickNoteS/ClickNoteSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/InitXingguiNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/InitXingguiList.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/BodyMovements/BodyMoveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/InitXingguiNoteNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/XingguiLineSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/LianyiLineSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/Lianyihuan/initLianyiData.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/Lianyihuan/LianyihuanRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/InitLianyiNoteNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/InitLianyiList.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/Lianyihuan/LianyiMeasure.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/Lianyihuan/LianyiHuanSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Note.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/InputControllerInSB.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/ClickNotes/ClickNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Spawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/ClickNotes/ClickNoteSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/XingguiNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/Xinggui/XingguiSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/LianyiNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/LianyiNotes/LianyiSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/HoldNotes/HoldNoteSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/HoldNotes/HoldNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/yuan_yin/_Scripts/StoryBoard/NoteClass/HoldNotes/InitHoldNote.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l0fFbDlrnxqims6hkElHMqonch" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a768ffea-65c6-4794-908d-d9b2e2108718" name="Default Changelist" comment="" />
+      <created>1606738826846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606738826846</updated>
+      <workItem from="1606738840269" duration="847000" />
+      <workItem from="1606928908813" duration="6556000" />
+      <workItem from="1607137255037" duration="7641000" />
+      <workItem from="1607150969647" duration="636000" />
+      <workItem from="1607161457673" duration="12906000" />
+      <workItem from="1607317049576" duration="1912000" />
+      <workItem from="1607333608125" duration="4449000" />
+      <workItem from="1607413566376" duration="2466000" />
+      <workItem from="1607438772354" duration="922000" />
+      <workItem from="1607488369996" duration="1535000" />
+      <workItem from="1607507715147" duration="1267000" />
+      <workItem from="1607510308120" duration="586000" />
+      <workItem from="1607511546875" duration="1862000" />
+      <workItem from="1607524723567" duration="2327000" />
+      <workItem from="1607527478141" duration="6820000" />
+      <workItem from="1607564741480" duration="4000" />
+      <workItem from="1607572496706" duration="4537000" />
+      <workItem from="1607607958737" duration="613000" />
+      <workItem from="1607683407579" duration="9947000" />
+      <workItem from="1607706302479" duration="7067000" />
+      <workItem from="1607747302197" duration="5898000" />
+      <workItem from="1607766786054" duration="752000" />
+      <workItem from="1607822505570" duration="8655000" />
+      <workItem from="1607931595369" duration="2461000" />
+      <workItem from="1607943466206" duration="17873000" />
+      <workItem from="1608020725575" duration="1285000" />
+      <workItem from="1608023832233" duration="1497000" />
+      <workItem from="1608031251766" duration="8836000" />
+      <workItem from="1608726683526" duration="7250000" />
+      <workItem from="1608745706269" duration="14626000" />
+      <workItem from="1608794538351" duration="5030000" />
+      <workItem from="1608801251808" duration="758000" />
+      <workItem from="1608838965069" duration="17273000" />
+      <workItem from="1610228037046" duration="641000" />
+      <workItem from="1610566552944" duration="4203000" />
+      <workItem from="1610690364081" duration="10206000" />
+      <workItem from="1611024483613" duration="1779000" />
+      <workItem from="1611026383766" duration="23850000" />
+      <workItem from="1611366025820" duration="13547000" />
+      <workItem from="1611562998951" duration="755000" />
+      <workItem from="1611935019997" duration="1471000" />
+      <workItem from="1611972398807" duration="709000" />
+      <workItem from="1611974830068" duration="1227000" />
+      <workItem from="1611990415701" duration="1943000" />
+      <workItem from="1612243131512" duration="1198000" />
+      <workItem from="1612407669628" duration="2050000" />
+      <workItem from="1612507158569" duration="3764000" />
+      <workItem from="1613801577140" duration="89000" />
+      <workItem from="1613973886761" duration="9082000" />
+      <workItem from="1614327087404" duration="15125000" />
+      <workItem from="1614603273157" duration="1694000" />
+      <workItem from="1614749907334" duration="14711000" />
+      <workItem from="1614774384677" duration="903000" />
+      <workItem from="1614775429877" duration="12152000" />
+      <workItem from="1614957125415" duration="1345000" />
+      <workItem from="1615177378475" duration="4098000" />
+      <workItem from="1615290005520" duration="28000" />
+      <workItem from="1615290047231" duration="4123000" />
+      <workItem from="1615563084760" duration="105000" />
+      <workItem from="1615727448807" duration="983000" />
+      <workItem from="1615728479741" duration="4424000" />
+      <workItem from="1615820957431" duration="1667000" />
+      <workItem from="1615898317621" duration="1180000" />
+      <workItem from="1615899828046" duration="3210000" />
+      <workItem from="1615974252890" duration="4898000" />
+      <workItem from="1615980566940" duration="188000" />
+      <workItem from="1615980845454" duration="142000" />
+      <workItem from="1615981800017" duration="6465000" />
+      <workItem from="1615991960334" duration="4274000" />
+      <workItem from="1616057698200" duration="2191000" />
+      <workItem from="1616080201168" duration="626000" />
+      <workItem from="1616170389686" duration="9836000" />
+      <workItem from="1616671523176" duration="6190000" />
+      <workItem from="1616680094900" duration="856000" />
+      <workItem from="1616809410518" duration="484000" />
+      <workItem from="1616894955292" duration="3890000" />
+      <workItem from="1616917245040" duration="27164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="53" key="#Plugins" timestamp="1615728428847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1615728428847" />
+    <state x="586" y="112" key="RiderGenerateDialog" timestamp="1616204914799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="112" key="RiderGenerateDialog/0.0.1536.824/-1440.0.1152.680@0.0.1536.824" timestamp="1616204914799" />
+    <state x="586" y="112" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1614773300180" />
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1616980996829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1616980996829" />
+    <state x="433" y="151" width="672" height="673" key="search.everywhere.popup" timestamp="1611377137385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="151" width="672" height="673" key="search.everywhere.popup/0.0.1536.824/-1440.0.1152.680@0.0.1536.824" timestamp="1611132663249" />
+    <state x="433" y="151" width="672" height="673" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611377137385" />
+  </component>
+</project>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\wengc\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\wengc\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_yuanyin.-720944085.00" t="ExcludeRecursive" />
+    <e p="E:\u3d\yuanyin" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="JSON" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JSONChecker.cs" t="Include" />
+          </e>
+          <e p="JSONObject.cs" t="Include" />
+          <e p="ReadMe.txt" t="Include" />
+          <e p="VectorTemplates.cs" t="Include" />
+        </e>
+        <e p="Koreographer" t="Include">
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Koreographer" t="Include">
+            <e p="SonicBloom.Koreo.xml" t="Include" />
+            <e p="SonicBloom.MIDI.xml" t="Include" />
+            <e p="Unity Editor" t="Include">
+              <e p="SonicBloom.Koreo.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="yuan_yin" t="Include">
+          <e p="_scripts" t="Include">
+            <e p="ExtraComponents" t="Include">
+              <e p="Qsort.cs" t="Include" />
+              <e p="TextTok.cs" t="Include" />
+              <e p="VerticalText.cs" t="Include" />
+            </e>
+            <e p="HomeCommon" t="Include">
+              <e p="BodyScale.cs" t="Include" />
+              <e p="DyTextController.cs" t="Include" />
+              <e p="HomeCanvas.cs" t="Include" />
+              <e p="HomeScene" t="Include">
+                <e p="PanRotate.cs" t="Include" />
+                <e p="StartAnimController.cs" t="Include" />
+                <e p="UITouch.cs" t="Include" />
+              </e>
+              <e p="nailAlign.cs" t="Include" />
+              <e p="SelectScene" t="Include">
+                <e p="SelectSceneAnimationController.cs" t="Include" />
+                <e p="UITouchInSelect.cs" t="Include" />
+              </e>
+              <e p="UICameraAsyn.cs" t="Include" />
+            </e>
+            <e p="Instances" t="Include">
+              <e p="SongListInstance.cs" t="Include" />
+              <e p="UIInstance.cs" t="Include" />
+            </e>
+            <e p="SongBase" t="Include">
+              <e p="SongBase.cs" t="Include" />
+            </e>
+            <e p="StoryBoard" t="Include">
+              <e p="InputControllerInSB.cs" t="Include" />
+              <e p="NoteClass" t="Include">
+                <e p="BodyMovements" t="Include">
+                  <e p="BodyMoveData.cs" t="Include" />
+                  <e p="InitBodyMoveData.cs" t="Include" />
+                </e>
+                <e p="ClickNoteS" t="Include">
+                  <e p="ClickNote.cs" t="Include" />
+                  <e p="ClickNoteSpawn.cs" t="Include" />
+                  <e p="InitClickNote.cs" t="Include" />
+                </e>
+                <e p="HoldNotes" t="Include">
+                  <e p="HoldNote.cs" t="Include" />
+                  <e p="HoldNoteSpawn.cs" t="Include" />
+                  <e p="InitHoldNote.cs" t="Include" />
+                </e>
+                <e p="LianyiNotes" t="Include">
+                  <e p="InitLianyiList.cs" t="Include" />
+                  <e p="InitLianyiNoteNode.cs" t="Include" />
+                  <e p="Lianyihuan" t="Include">
+                    <e p="initLianyiHuanData.cs" t="Include" />
+                    <e p="LianyihuanRenderer.cs" t="Include" />
+                    <e p="LianyiHuanSpawn.cs" t="Include" />
+                    <e p="LianyiMeasure.cs" t="Include" />
+                  </e>
+                  <e p="LianyiNote.cs" t="Include" />
+                  <e p="LianyiSpawn.cs" t="Include" />
+                </e>
+                <e p="Note.cs" t="Include" />
+                <e p="NoteSpawn.cs" t="Include" />
+                <e p="Xinggui" t="Include">
+                  <e p="InitXingguiList.cs" t="Include" />
+                  <e p="InitXingguiNoteNode.cs" t="Include" />
+                  <e p="XingguiLineSpawn.cs" t="Include" />
+                  <e p="XingguiNote.cs" t="Include" />
+                  <e p="XingguiSpawn.cs" t="Include" />
+                </e>
+              </e>
+              <e p="NoteController.cs" t="Include" />
+              <e p="Old" t="Include">
+                <e p="DestroyEffect.cs" t="Include" />
+                <e p="GameController.cs" t="Include" />
+                <e p="LaneController.cs" t="Include" />
+                <e p="NoteObject.cs" t="Include" />
+                <e p="TouchTest.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="yuanyin.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

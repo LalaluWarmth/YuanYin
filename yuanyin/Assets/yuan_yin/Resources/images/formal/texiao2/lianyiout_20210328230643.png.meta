@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: 85529307f426c1e41b3f27348223be13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3922551459647186136
+    second: lianyiout_20210328230643_0
+  - first:
+      213: -4827886373631583151
+    second: lianyiout_20210328230643_1
+  - first:
+      213: -4924344935183893185
+    second: lianyiout_20210328230643_2
+  - first:
+      213: -6267540368620841507
+    second: lianyiout_20210328230643_3
+  - first:
+      213: -6527483787832963742
+    second: lianyiout_20210328230643_4
+  - first:
+      213: -7939117777087062193
+    second: lianyiout_20210328230643_5
+  - first:
+      213: 2184193850187819655
+    second: lianyiout_20210328230643_6
+  - first:
+      213: -7284718357731417990
+    second: lianyiout_20210328230643_7
+  - first:
+      213: 7095638246422323560
+    second: lianyiout_20210328230643_8
+  - first:
+      213: -3257634561025472866
+    second: lianyiout_20210328230643_9
+  - first:
+      213: 5575112399941076338
+    second: lianyiout_20210328230643_10
+  - first:
+      213: 2215930870717022498
+    second: lianyiout_20210328230643_11
+  - first:
+      213: -8133918450439442243
+    second: lianyiout_20210328230643_12
+  - first:
+      213: -720708144471197063
+    second: lianyiout_20210328230643_13
+  - first:
+      213: -886721315834655651
+    second: lianyiout_20210328230643_14
+  - first:
+      213: -8822536571930853687
+    second: lianyiout_20210328230643_15
+  - first:
+      213: 5735339493958150016
+    second: lianyiout_20210328230643_16
+  - first:
+      213: 3101672871177000342
+    second: lianyiout_20210328230643_17
+  - first:
+      213: 1563412575453422989
+    second: lianyiout_20210328230643_18
+  - first:
+      213: 5347861122854891035
+    second: lianyiout_20210328230643_19
+  - first:
+      213: 1506007842073019816
+    second: lianyiout_20210328230643_20
+  - first:
+      213: 2842780415014100593
+    second: lianyiout_20210328230643_21
+  - first:
+      213: 8560914683496644000
+    second: lianyiout_20210328230643_22
+  - first:
+      213: 3498970323054769531
+    second: lianyiout_20210328230643_23
+  - first:
+      213: -4575745166508666795
+    second: lianyiout_20210328230643_24
+  - first:
+      213: -9141281181983106454
+    second: lianyiout_20210328230643_25
+  - first:
+      213: 2399741905412755487
+    second: lianyiout_20210328230643_26
+  - first:
+      213: -251275420247346692
+    second: lianyiout_20210328230643_27
+  - first:
+      213: 93668370057086959
+    second: lianyiout_20210328230643_28
+  - first:
+      213: 3380497095643156859
+    second: lianyiout_20210328230643_29
+  - first:
+      213: -4534524770871672955
+    second: lianyiout_20210328230643_30
+  - first:
+      213: -8467538305048298793
+    second: lianyiout_20210328230643_31
+  - first:
+      213: 9092275558082710488
+    second: lianyiout_20210328230643_32
+  - first:
+      213: -1927526820529148434
+    second: lianyiout_20210328230643_33
+  - first:
+      213: 4900226221253072660
+    second: lianyiout_20210328230643_34
+  - first:
+      213: -7105003807111744714
+    second: lianyiout_20210328230643_35
+  - first:
+      213: -2004070689083392201
+    second: lianyiout_20210328230643_36
+  - first:
+      213: -8017133166601757790
+    second: lianyiout_20210328230643_37
+  - first:
+      213: -1784706782480787732
+    second: lianyiout_20210328230643_38
+  - first:
+      213: -1004163626364926761
+    second: lianyiout_20210328230643_39
+  - first:
+      213: 1054446405953435507
+    second: lianyiout_20210328230643_40
+  - first:
+      213: 5142249586451855220
+    second: lianyiout_20210328230643_41
+  - first:
+      213: 7726383229129556600
+    second: lianyiout_20210328230643_42
+  - first:
+      213: -1491575703404293938
+    second: lianyiout_20210328230643_43
+  - first:
+      213: 5698200228292719198
+    second: lianyiout_20210328230643_44
+  - first:
+      213: 2859018936021759937
+    second: lianyiout_20210328230643_45
+  - first:
+      213: -7814395132242182182
+    second: lianyiout_20210328230643_46
+  - first:
+      213: 4581710548414666945
+    second: lianyiout_20210328230643_47
+  - first:
+      213: -3206989425738242270
+    second: lianyiout_20210328230643_48
+  - first:
+      213: -8494972688176737870
+    second: lianyiout_20210328230643_49
+  - first:
+      213: -611985767646966924
+    second: lianyiout_20210328230643_50
+  - first:
+      213: 8572163041278524175
+    second: lianyiout_20210328230643_51
+  - first:
+      213: 7886732894105596246
+    second: lianyiout_20210328230643_52
+  - first:
+      213: -5926831261545860012
+    second: lianyiout_20210328230643_53
+  - first:
+      213: -6856249598321441793
+    second: lianyiout_20210328230643_54
+  - first:
+      213: -6654727136756439887
+    second: lianyiout_20210328230643_55
+  - first:
+      213: 1001228263375087513
+    second: lianyiout_20210328230643_56
+  - first:
+      213: -4094454501042571809
+    second: lianyiout_20210328230643_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_0
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4278
+        width: 956
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b1a82ea3c4099c0800000000000000
+      internalID: -3922551459647186136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_1
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 4422
+        width: 705
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9db32ce6effcb0800000000000000
+      internalID: -4827886373631583151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_2
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 4465
+        width: 576
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dbeda2f5639abb0800000000000000
+      internalID: -4924344935183893185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_3
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 4436
+        width: 582
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51fe8dd393509a0800000000000000
+      internalID: -6267540368620841507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_57
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 4314
+        width: 735
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5bb5c13539d27c0800000000000000
+      internalID: -4094454501042571809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3042
+        width: 891
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d481d3418b965a0800000000000000
+      internalID: -6527483787832963742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_5
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 2886
+        width: 896
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f9cbae17692d190800000000000000
+      internalID: -7939117777087062193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_6
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 2750
+        width: 976
+        height: 1150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa9010cb0df4e10800000000000000
+      internalID: 2184193850187819655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_7
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 2943
+        width: 1451
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e6aeef3b77ea90800000000000000
+      internalID: -7284718357731417990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 718
+        width: 656
+        height: 1645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861adac0465c87260800000000000000
+      internalID: 7095638246422323560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyiout_20210328230643_9
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 844
+        width: 1026
+        height: 1495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968a0e50ae8ac2d0800000000000000
+      internalID: -3257634561025472866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9075c257b46afac468a574f988d414a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

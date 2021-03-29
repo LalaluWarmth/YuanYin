@@ -1,0 +1,24 @@
+﻿[
+  {
+    "id": 1,
+    "songName": "宋",
+    "songDescription": "宋朝",
+    "songDescriptionSprite": "songs/01song/01song",
+    "songKoreographyEasy": "songs/01song/01song",
+    "songKoreographyDifficult": "songs/01song/01song",
+    "songSprite": "songs/01song/01song",
+    "songRank": "甲",
+    "songCombo": "三佰壹拾玖分"
+  },
+  {
+    "id": 2,
+    "songName": "N",
+    "songDescription": "Null",
+    "songDescriptionSprite": "songs/02song/02song",
+    "songKoreographyEasy": "songs/02song/02song",
+    "songKoreographyDifficult": "songs/02song/02song",
+    "songSprite": "songs/02song/02song",
+    "songRank": "等",
+    "songCombo": "某某某某分"
+  }
+]
